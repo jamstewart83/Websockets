@@ -1,4 +1,4 @@
-Demo-Boilerplate
-================
+Websockets
+==========
 
-Demo Boilerplate that gets pulled in by ST2 to keep things nice and consistent
+Binding the basic events for WebSockets uses Node as the server
